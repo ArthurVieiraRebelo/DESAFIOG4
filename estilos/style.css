@@ -17,6 +17,7 @@
 body, html{
     background-color: #5f2c82 ;
 }
+
 main{
     position: relative;
     width: 100vw;
@@ -45,7 +46,7 @@ section#login > div#img {
 }
 
 h1{
-    padding: 20px 0px;
+    padding: 15px 0px;
     text-align: center;
     font-size: 2rem;
 }
@@ -54,5 +55,22 @@ p{
     font-size: 0.8rem;
     padding: 8px;
 }
+div.campo{
+    background-color: #5f2c82;
+    height: 40px;
+    width: 225px;
+    margin: 5px auto;
+    border-radius: 8px;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 30,
+}
+/*mudar o simbolo de 24 x 24 para 30 x 30 
+
 
 
